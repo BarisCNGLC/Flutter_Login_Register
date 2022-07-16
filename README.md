@@ -5,6 +5,8 @@
 
 
 <img src="https://github.com/BarisCNGLC/Flutter_Login_Register/blob/main/Screenshot_1657990250.png" width="180">
+<img src="https://github.com/BarisCNGLC/Flutter_Login_Register/blob/main/Screenshot_1657990405.png" width="180">
+<img src="https://github.com/BarisCNGLC/Flutter_Login_Register/blob/main/Screenshot_1657990412.png" width="180">
 
 
 A few resources to get you started if this is your first Flutter project:
